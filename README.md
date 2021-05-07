@@ -8,8 +8,8 @@ Running in IntelliJ:
 
 Environment and dependencies:
 
-IntelliJ Ultimate 2020.2.4
-bazel 4.0.0
-junit 4.12
-assert-j 3.19.0
-opentest4j 1.2.0
+- IntelliJ Ultimate 2020.2.4
+- bazel 4.0.0
+- junit 4.12
+- assert-j 3.19.0
+- opentest4j 1.2.0
