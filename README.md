@@ -13,3 +13,7 @@ Environment and dependencies:
 - junit 4.12
 - assert-j 3.19.0
 - opentest4j 1.2.0
+
+Example of an assertion failure:
+
+![image](https://user-images.githubusercontent.com/575174/117478961-a1947580-af14-11eb-881a-1be80c308361.png)
