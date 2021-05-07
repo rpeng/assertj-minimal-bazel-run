@@ -4,7 +4,7 @@ Running in IntelliJ:
 1. Install bazel 4.0.0 https://github.com/bazelbuild/bazel/releases/
 2. Get the [Bazel plugin for IntelliJ](https://plugins.jetbrains.com/plugin/8609-bazel)
 3. Import this bazel project
-4. Run MainTest.testAssert from the IDE
+4. Run com.example.rpeng.MainTest#testAssert from the IDE
 
 Environment and dependencies:
 
